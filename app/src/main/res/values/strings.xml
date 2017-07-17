@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ISHTapp</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="register_text">Register </string>
+    <string name="already_registered_sign_in_here">Already registered ? sign in here</string>
+</resources>

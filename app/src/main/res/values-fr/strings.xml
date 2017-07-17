@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ISHTapp</string>
+    <string name="enter_your_email">3afak eveillez entrer ton email stp bb</string>
+    <string name="enter_your_password">veillez enter votre mot de pass</string>
+    <string name="register_text">sinscrire ici </string>
+    <string name="already_registered_sign_in_here">Already registered ? sign in here</string>
+</resources>

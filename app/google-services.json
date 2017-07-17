@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "730993238287",
+    "firebase_url": "https://ishtapp.firebaseio.com",
+    "project_id": "ishtapp",
+    "storage_bucket": "ishtapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730993238287:android:befbe2870a4ed8c2",
+        "android_client_info": {
+          "package_name": "com.example.adam.ishtapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730993238287-169lpjbheqk7c2ke8pq6h90bclkaak1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsRs4EUINPgDWnv6H9eUkO7XjhJVevYTU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
