@@ -4,4 +4,17 @@
     <string name="enter_your_password">Enter Your Password</string>
     <string name="register_text">Register </string>
     <string name="already_registered_sign_in_here">Already registered ? sign in here</string>
+    <string name="login">Login</string>
+    <string name="not_registred_register_here">Not registred ! Register Here</string>
+    <string name="please_wait">PLEASE WAIT …</string>
+    <string name="title_activity_navigation">navigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="name_of_user">name of user</string>
+    <string name="email_of_user">email of user</string>
+    <string name="import_">Import</string>
+    <string name="gallery">Gallery</string>
 </resources>
