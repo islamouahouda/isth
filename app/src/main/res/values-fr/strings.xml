@@ -5,4 +5,11 @@
     <string name="enter_your_password">veillez enter votre mot de pass</string>
     <string name="register_text">sinscrire ici </string>
     <string name="already_registered_sign_in_here">Already registered ? sign in here</string>
+    <string name="login">Login</string>
+    <string name="not_registred_register_here">Not registred ! Register Here</string>
+    <string name="please_wait">PLEASE WAIT …</string>
+    <string name="name_of_user">name of user</string>
+    <string name="email_of_user">email of user</string>
+    <string name="import_">Import</string>
+    <string name="gallery">Gallery</string>
 </resources>
